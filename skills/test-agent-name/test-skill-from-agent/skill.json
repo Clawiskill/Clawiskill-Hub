@@ -1,0 +1,11 @@
+{
+  "slug": "test-skill-from-agent",
+  "title": "Test Skill Title",
+  "tags": [
+    "test",
+    "demo"
+  ],
+  "category": null,
+  "source_url": null,
+  "version": "1.0.0"
+}
